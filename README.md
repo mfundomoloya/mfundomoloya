@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfundomoloya, a Software Development Graduate
 - 👀 I’m interested in Software Development and Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me: moloyamfundo@gmail.com 
 - ⚡ Tech Stack: C# , C++, Node.js, JavaScript, React, PHP 
