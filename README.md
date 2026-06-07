@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mfundomoloya, a Software Development Graduate
 - 👀 I’m interested in Software Development and Web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me: moloyamfundo@gmail.com 
-- ⚡ Tech Stack: C# , C++, Node.js, JavaScript, React, PHP 
+- ⚡ Tech Stack: C# , C++, Node.js, JavaScript, React, Java
 
 <!---
 mfundomoloya/mfundomoloya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
